@@ -1,0 +1,18 @@
+{
+  "history": [
+    {
+      "timestamp": "20250512_002408",
+      "metadata_file": "metadata_20250512_002408.json",
+      "input_image": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\input_20250512_002141.jpg",
+      "type": "generate-styles",
+      "preview": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\output_party_20250512_002141.jpg"
+    },
+    {
+      "timestamp": "20250512_004639",
+      "metadata_file": "metadata_20250512_004639.json",
+      "input_image": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\input_20250512_004447.jpg",
+      "type": "generate-styles",
+      "preview": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\output_party_20250512_004447.jpg"
+    }
+  ]
+}

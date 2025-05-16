@@ -1,0 +1,31 @@
+{
+  "type": "generate-styles",
+  "timestamp": "20250512_004447",
+  "input_image_path": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\input_20250512_004447.jpg",
+  "style_data": {
+    "apparel": "yes",
+    "details": [
+      "Short-sleeved polo shirt made of ribbed knit fabric with vertical lines, providing a textured appearance",
+      "The shirt features a classic collar with a slightly spread point design, made from the same ribbed fabric",
+      "A partial placket with buttons, likely three, with a subtle contrast in color or material for added detail",
+      "Slim fit cut that contours to the body, emphasizing a tailored silhouette",
+      "Hem is straight and simple, without visible embellishments or added design elements"
+    ],
+    "suggestions": {
+      "party": "For a party, pair this ribbed brown polo shirt with a sleek black leather skirt or fitted high-waisted trousers. Add statement jewelry such as gold hoop earrings and layered necklaces. Complete the look with strappy high heels or ankle boots in a matching or metallic finish. Accessorize with a small clutch or crossbody bag and a stylish belt for added flair.",
+      "office": "For a professional office look, tuck this polo shirt into a high-waisted pencil skirt in a neutral or contrasting color like beige or navy. Add a structured blazer for a polished appearance. Wear classic pumps in black or nude. Accessorize with a subtle watch, modest earrings, and a leather tote or structured handbag. Finish with a sleek hairstyle and minimal makeup.",
+      "vacation": "For a vacation outfit, wear this polo shirt with light-colored linen shorts or a flowy maxi skirt for a relaxed vibe. Add comfortable sandals or espadrilles and a wide-brimmed straw hat for sun protection. Carry a woven tote or beach bag, and accessorize with sunglasses and simple jewelry like bracelets or anklets. Consider layering with a light kimono or cover-up for added comfort."
+    },
+    "generated_images": {
+      "party": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-dIA4g1qKxWkQ5OItkKvoUDns/user-XFro1h9ZJ3YtmiznsZ2TW368/img-CpXkzwcN0Z3L42SRbQzhVIGp.png?st=2025-05-11T18%3A15%3A24Z&se=2025-05-11T20%3A15%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-11T04%3A55%3A23Z&ske=2025-05-12T04%3A55%3A23Z&sks=b&skv=2024-08-04&sig=vr6YGCrl9awRnyvaT1jIsnlk1fxvGOH0QBUSc8uU7VY%3D",
+      "office": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-dIA4g1qKxWkQ5OItkKvoUDns/user-XFro1h9ZJ3YtmiznsZ2TW368/img-cWpE0HtEqkyrErPgV5mbIdQ8.png?st=2025-05-11T18%3A15%3A50Z&se=2025-05-11T20%3A15%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-11T03%3A12%3A18Z&ske=2025-05-12T03%3A12%3A18Z&sks=b&skv=2024-08-04&sig=a9xFlfdrcUOXGLz3JJmBsOI/Mnl5lG3fux61ImqcLA0%3D",
+      "vacation": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-dIA4g1qKxWkQ5OItkKvoUDns/user-XFro1h9ZJ3YtmiznsZ2TW368/img-5uFcAjfFeVznJG6GQWjrIL87.png?st=2025-05-11T18%3A16%3A35Z&se=2025-05-11T20%3A16%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-10T23%3A17%3A52Z&ske=2025-05-11T23%3A17%3A52Z&sks=b&skv=2024-08-04&sig=98FnzwP/tsSglDLopC06Yr5aNyQXU4PBAkKI71aCcL8%3D"
+    }
+  },
+  "output_images": {
+    "party": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\output_party_20250512_004447.jpg",
+    "office": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\output_office_20250512_004447.jpg",
+    "vacation": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\output_vacation_20250512_004447.jpg"
+  },
+  "preview_image": "history\\52083d84-dadd-4bf3-8cbf-12259ed827d0\\output_party_20250512_004447.jpg"
+}

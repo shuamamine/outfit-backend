@@ -1,0 +1,34 @@
+{
+  "type": "generate-styles",
+  "timestamp": "20250515_235623",
+  "input_image_path": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\input_20250515_235623.jpg",
+  "style_data": {
+    "apparel": "yes",
+    "details": [
+      "Ribbed texture with vertical lines running throughout the fabric, providing a structured and slightly stretchy feel.",
+      "Short-sleeved design with a fitted cut, suitable for warm weather.",
+      "Collar features a classic, pointed design with a slight spread, adding a touch of formality.",
+      "Placket with a concealed button closure, maintaining a sleek appearance.",
+      "Brown color with subtle shading variations that enhances depth and richness.",
+      "Seams are well-stitched, with slight topstitching visible along the edges of the collar and sleeve hems.",
+      "Slim fit silhouette tailored to accentuate the waist area.",
+      "Made from a lightweight, breathable fabric, likely a cotton or cotton blend."
+    ],
+    "suggestions": {
+      "party": "Pair the brown ribbed short-sleeved shirt with a high-waisted black or dark denim skirt adorned with metallic embellishments like studs or glitter details. Add statement jewelry such as gold chandelier earrings, layered necklaces, and a bold cuff bracelet. Complete the look with strappy stiletto heels in a metallic or matching brown shade, and a small clutch in a contrasting color like beige or gold. Finish with a smoky eye makeup and a nude or deep red lipstick for a glamorous evening appearance.",
+      "office": "Combine the brown ribbed shirt with tailored beige or charcoal gray high-waisted trousers, ensuring a clean and professional appearance. Tuck in the shirt neatly and add a slim brown leather belt with a subtle gold buckle. Accessorize with small gold or pearl stud earrings, a classic wristwatch, and a structured leather handbag in dark brown. Wear pointed-toe loafers or low-heeled pumps in brown or nude. Style your hair in a sleek bun or softly curled, and opt for natural makeup with a nude lipstick for a polished, work-appropriate look.",
+      "vacation": "Dress the brown ribbed shirt with a flowy, knee-length beige linen skirt featuring subtle pleats for comfort and style. Accessorize with a wide-brim straw hat, oversized sunglasses, and layered beaded necklaces for a relaxed vibe. Carry a woven straw tote bag and wear comfortable tan leather sandals or espadrilles. Keep makeup minimal with a tinted moisturizer, and add a pop of color with coral or peach-colored lips and cheeks. Style hair in loose beachy waves for an effortless vacation look."
+    },
+    "generated_images": {
+      "party": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-dIA4g1qKxWkQ5OItkKvoUDns/user-XFro1h9ZJ3YtmiznsZ2TW368/img-A9m4ov9jIebffKYeHBNevUxY.png?st=2025-05-15T17%3A26%3A54Z&se=2025-05-15T19%3A26%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-14T21%3A03%3A36Z&ske=2025-05-15T21%3A03%3A36Z&sks=b&skv=2024-08-04&sig=YaS18An3%2BeXe3nLxTaak1OLW2Cl719eolnp3H5GlarI%3D",
+      "office": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-dIA4g1qKxWkQ5OItkKvoUDns/user-XFro1h9ZJ3YtmiznsZ2TW368/img-4rBIeLbyqfy80u9mcyXYGTgm.png?st=2025-05-15T17%3A27%3A29Z&se=2025-05-15T19%3A27%3A29Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-14T20%3A56%3A53Z&ske=2025-05-15T20%3A56%3A53Z&sks=b&skv=2024-08-04&sig=d6raV01fC7Gl8NQZfDnzD77CJKN8zCHq71eGZPxDqaw%3D",
+      "vacation": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-dIA4g1qKxWkQ5OItkKvoUDns/user-XFro1h9ZJ3YtmiznsZ2TW368/img-PB3oLy6vtzoodOyJSxtpHkw1.png?st=2025-05-15T17%3A27%3A52Z&se=2025-05-15T19%3A27%3A52Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-14T21%3A39%3A23Z&ske=2025-05-15T21%3A39%3A23Z&sks=b&skv=2024-08-04&sig=TQZeDXsFdL4JKYWrAMveD8IWZdXTD4iAE5dYKV1g%2B8E%3D"
+    }
+  },
+  "output_images": {
+    "party": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\output_party_20250515_235623.jpg",
+    "office": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\output_office_20250515_235623.jpg",
+    "vacation": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\output_vacation_20250515_235623.jpg"
+  },
+  "preview_image": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\output_party_20250515_235623.jpg"
+}

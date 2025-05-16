@@ -1,0 +1,11 @@
+{
+  "history": [
+    {
+      "timestamp": "20250515_235756",
+      "metadata_file": "metadata_20250515_235756.json",
+      "input_image": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\input_20250515_235623.jpg",
+      "type": "generate-styles",
+      "preview": "history\\d0d0d2a4-dc0a-4962-9fd7-9c9e54d7a622\\output_party_20250515_235623.jpg"
+    }
+  ]
+}
