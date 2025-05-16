@@ -23,7 +23,7 @@ CORS(app)
 # Create necessary directories if they don't exist
 os.makedirs("public/assets", exist_ok=True)
 os.makedirs("public/history", exist_ok=True)
-
+port = int(os.environ.get("PORT", 5000))
 # Save reference style image if it doesn't exist
 REFERENCE_IMAGE_PATH = "public/assets/reference_style.jpg"
 if not os.path.exists(REFERENCE_IMAGE_PATH):
@@ -734,4 +734,4 @@ def delete_session(session_id):
         return jsonify({'error': str(e)}), 500
 initialize_db()
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run(host="0.0.0.0", port=port,debug=True)
