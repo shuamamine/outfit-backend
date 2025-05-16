@@ -201,7 +201,7 @@ def save_history_data_sqlite(data):
     return session_id
 @app.route('/test', methods=['GET'])
 def test():
-    return "Niggu"
+    return "it works"
 
 @app.route('/generate-styles', methods=['POST'])
 def generate_styles():
